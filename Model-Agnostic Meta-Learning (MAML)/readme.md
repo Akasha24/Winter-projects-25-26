@@ -6,4 +6,4 @@ Mentors: Vashi Diwakar, Hrushikesh Roop Avvari & Chaitanya Nitawe
 
 All weekly resources, papers, and code implementations will be uploaded here.
 
-🔗 [**Resource Document:**](https://docs.google.com/document/d/1ma35FWZtuH-0ughSyEhRaPjuxyrobFLQFvh44xFWLbA/edit)
+🔗 [**Resource Document**](https://docs.google.com/document/d/1ma35FWZtuH-0ughSyEhRaPjuxyrobFLQFvh44xFWLbA/edit)
